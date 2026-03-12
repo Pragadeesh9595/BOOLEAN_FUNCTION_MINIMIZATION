@@ -43,12 +43,12 @@ Developed by: pragadeesh m RegisterNumber: 212225040309
 ```
 
 output :
+
 <img width="785" height="433" alt="image" src="https://github.com/user-attachments/assets/413a0983-12bc-4858-ac87-eb19895d8b37" />
 
 
-**RTL**
+**RTL Timing Diagram**
 
-**Timing Diagram**
 <img width="1305" height="679" alt="image" src="https://github.com/user-attachments/assets/5b3c338d-6df8-4106-84d8-7b4aad7da182" />
 
 **Result:**
